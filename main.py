@@ -3,7 +3,7 @@ from formatter import format_bookmarks_to_chrome
 
 
 def main():
-	# download_bookmarks()
+	download_bookmarks()
 	format_bookmarks_to_chrome()
 
 
